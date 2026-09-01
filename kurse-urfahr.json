@@ -18,6 +18,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
   },
   {
+    "titel": "Kettlebell",
+    "datum": "2026-09-03",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/kettlebell"
+  },
+  {
     "titel": "Pilates",
     "datum": "2026-09-03",
     "zeit": "18:00",
@@ -30,16 +36,34 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
   },
   {
+    "titel": "Langhantel Workout",
+    "datum": "2026-09-04",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/langhantel-workout"
+  },
+  {
     "titel": "Powerzirkel",
     "datum": "2026-09-04",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Golden Girls",
+    "datum": "2026-09-07",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
     "titel": "Yoga",
     "datum": "2026-09-07",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
+  },
+  {
+    "titel": "Stepper",
+    "datum": "2026-09-08",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
   },
   {
     "titel": "Powerzirkel",
@@ -54,10 +78,28 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
   },
   {
+    "titel": "Cardio",
+    "datum": "2026-09-10",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/cardio"
+  },
+  {
+    "titel": "Bauch Beine Po",
+    "datum": "2026-09-11",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
+  },
+  {
     "titel": "Powerzirkel",
     "datum": "2026-09-11",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2026-09-14",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
   },
   {
     "titel": "Yoga",
@@ -84,6 +126,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
   },
   {
+    "titel": "Straffe Beine",
+    "datum": "2026-09-17",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/straffe-beine"
+  },
+  {
     "titel": "Pilates",
     "datum": "2026-09-17",
     "zeit": "18:00",
@@ -96,16 +144,34 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
   },
   {
+    "titel": "Sixpack Attack",
+    "datum": "2026-09-18",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+  },
+  {
     "titel": "Powerzirkel",
     "datum": "2026-09-18",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Golden Girls",
+    "datum": "2026-09-21",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
     "titel": "Yoga",
     "datum": "2026-09-21",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
+  },
+  {
+    "titel": "Tabata",
+    "datum": "2026-09-22",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/tabata"
   },
   {
     "titel": "Mobilisierung/Stabilisierung",
@@ -132,6 +198,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
   },
   {
+    "titel": "Stepper",
+    "datum": "2026-09-24",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
+  },
+  {
     "titel": "Pilates",
     "datum": "2026-09-24",
     "zeit": "18:00",
@@ -144,16 +216,34 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
   },
   {
+    "titel": "Challenge",
+    "datum": "2026-09-25",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/challenge"
+  },
+  {
     "titel": "Powerzirkel",
     "datum": "2026-09-25",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Golden Girls",
+    "datum": "2026-09-28",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
     "titel": "Yoga",
     "datum": "2026-09-28",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
+  },
+  {
+    "titel": "Bodyweight",
+    "datum": "2026-09-29",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bodyweight"
   },
   {
     "titel": "Mobilisierung/Stabilisierung",
