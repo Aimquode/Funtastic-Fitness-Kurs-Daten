@@ -1,29 +1,5 @@
 [
   {
-    "titel": "Happy 30",
-    "datum": "2026-09-01",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Rücken Fit",
-    "datum": "2026-09-01",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-09-02",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Dance Aerobic",
-    "datum": "2026-09-02",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/dance-aerobic"
-  },
-  {
     "titel": "Step Aerobic",
     "datum": "2026-09-03",
     "zeit": "08:15",
@@ -50,7 +26,7 @@
   {
     "titel": "Happy 30",
     "datum": "2026-09-04",
-    "zeit": "09:30",
+    "zeit": "08:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
@@ -376,6 +352,12 @@
     "datum": "2026-10-01",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/arena-challenge-klon"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2026-10-01",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
   },
   {
     "titel": "Happy 30",
